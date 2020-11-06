@@ -1,0 +1,13 @@
+xxxxxxxxxxxxxx:$- cd CopyPasteTheLocationOf.javaFile    enter
+xxxxxxxxxxxxxx:-/fileLocation $ javac fileName.java    enter  //file name should be the class name ***imp***
+ //if jdk is properly installed you dont get any prblm at this stage.
+ //if this show any error rectify them and run the above line again 
+xxxxxxxxxxxxxx:$-/fileLocation $ javac fileName.java     
+//if no errors ARE shown then you can check the fileName.class in the same location saying,compilation is done.
+//now we gotta execute this...
+xxxxxxxxxxxxxx:-/fileLocation $ java fileName      enter  //no need of giving any extension.
+
+output will be displayed.......!!!!TADAHHHH!!!!..........
+
+
+
